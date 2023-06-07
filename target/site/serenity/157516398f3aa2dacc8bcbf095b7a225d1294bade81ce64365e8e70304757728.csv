@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Data driven store test","This test will create a new store record","SUCCESS","2023-06-07T01:46:21.988+01:00[Europe/London]","0.0","2.16"
+"Data driven store test","This test will verify the new created store information","SUCCESS","2023-06-07T01:46:21.993+01:00[Europe/London]","0.0","0.11"
+"Data driven store test","This test will delete store information","SUCCESS","2023-06-07T01:46:21.994+01:00[Europe/London]","0.0","0.11"

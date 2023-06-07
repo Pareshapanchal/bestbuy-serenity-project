@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.bestbuy.productinfo.DataDrivenProductTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.154 sec <<< FAILURE! - in com.bestbuy.productinfo.DataDrivenProductTest
+test001(com.bestbuy.productinfo.DataDrivenProductTest)  Time elapsed: 0.004 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.productinfo.DataDrivenProductTest.test001(DataDrivenProductTest.java:30)
+
+test002(com.bestbuy.productinfo.DataDrivenProductTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.productinfo.DataDrivenProductTest.test002(DataDrivenProductTest.java:38)
+
+test003(com.bestbuy.productinfo.DataDrivenProductTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.productinfo.DataDrivenProductTest.test003(DataDrivenProductTest.java:49)
+

@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store CRUD test","This test will return all the store information ","SUCCESS","2023-06-07T01:46:22.540+01:00[Europe/London]","0.0","0.13"
+"Store CRUD test","This test will create a new store record","SUCCESS","2023-06-07T01:46:22.676+01:00[Europe/London]","0.0","0.04"
+"Store CRUD test","This test will verify the new created store information","SUCCESS","2023-06-07T01:46:22.716+01:00[Europe/London]","0.0","0.02"
+"Store CRUD test","This test will update store information","SUCCESS","2023-06-07T01:46:22.735+01:00[Europe/London]","0.0","0.04"
+"Store CRUD test","This test will delete store information","SUCCESS","2023-06-07T01:46:22.776+01:00[Europe/London]","0.0","0.02"
